@@ -1,0 +1,3 @@
+[console_scripts]
+tdameritrade-auth = tdameritrade.auth:main
+
